@@ -1,3 +1,25 @@
+# 27/12-19 "Rangkaian Pompa"
+
+## Progress Done:
+> Recreate AD20P pump design on inventor
+> Design a simple water tank 
+
+## Learn:
+> Priming a pump
+> Learn to design pipe route in inventor
+https://www.youtube.com/watch?v=_6TuBO8xKzQ
+
+## Next Plan:
+*Testify*
+> 3D print with current fillet design with reference:
+2 mm layer width
+.5 mm layer height
+"No edges makes watertight" 
+source: 
+https://www.youtube.com/watch?v=JexR9lMn_tU
+
+
+
 # 21/12-19 "AD20P Pump Test #1"
 
 ## Progress Done:
@@ -15,30 +37,3 @@
 ## Next Plan:
 > Pump study, <Priming acquired>
 > Design a water tank
-
-==============================================
-
-# 27/12-19 "Rangkaian Pompa"
-
-## Progress Done:
-> Recreate AD20P pump design on inventor
-> Design a simple water tank 
-
-## Learn:
-> Priming a pump
-> Learn to design pipe route in inventor
-https://www.youtube.com/watch?v=_6TuBO8xKzQ
-
-## Next Plan:
-<<<Testify>>>
-> 3D print with current fillet design with reference:
-2 mm layer width
-.5 mm layer height
-"No edges makes watertight" 
-source: 
-https://www.youtube.com/watch?v=JexR9lMn_tU
-  
-==============================================
-
-
-
