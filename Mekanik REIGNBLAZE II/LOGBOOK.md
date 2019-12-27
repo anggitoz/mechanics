@@ -1,18 +1,16 @@
-# 21/12-19
-
-# "AD20P Pump Test #1"
+# 21/12-19 "AD20P Pump Test #1"
 
 ## Progress Done:
 > Testing a newly arrived AD20P 12v mini Submersible Pump 
 
 ### Results:
->> Submersible means submersive
->> Cant fully operate w/o priming
->> Head not rly 3m, unless test it on deep waters
->> playing water, Flooding pusgiwa's Restroom
+> Submersible means submersive
+> Cant fully operate w/o priming
+> Head not rly 3m, unless test it on deep waters
+> playing water, Flooding pusgiwa's Restroom
 
 ### Retest:
->> on deep water, check the head
+> on deep water, check the head
 
 ## Next Plan:
 > Pump study, <Priming acquired>
@@ -20,9 +18,7 @@
 
 ==============================================
 
-# 27/12-19
-
-# "Rangkaian Pompa"
+# 27/12-19 "Rangkaian Pompa"
 
 ## Progress Done:
 > Recreate AD20P pump design on inventor
