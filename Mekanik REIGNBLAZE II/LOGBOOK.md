@@ -1,11 +1,28 @@
+# 14/01-20 "Desain Kaki"
+
+## Progress Done:
+> Leg Design
+>> 2 DOF Leg
+>> 3 DOF Leg
+
+## Problem:
+> Electrical Dimension
+>> Line Sensor 
+>> Motor Controller
+>> Shield
+
+## Next Plan:
+
+
+
 # 27/12-19 "Rangkaian Pompa"
 
 ## Progress Done:
 > Recreate AD20P pump design on inventor
-> Design a simple water tank 
+> Design a simple water tank (size 40*30*39)
 
 ## Learn:
-> Priming a pump
+> Priming a pump      #Done
 > Learn to design pipe route in inventor
 https://www.youtube.com/watch?v=_6TuBO8xKzQ
 
@@ -36,4 +53,4 @@ https://www.youtube.com/watch?v=JexR9lMn_tU
 
 ## Next Plan:
 > Pump study, <Priming acquired>
-> Design a water tank
+> Design a water tank           
