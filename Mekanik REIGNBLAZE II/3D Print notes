@@ -1,0 +1,27 @@
+<for 0.4 mm nozzle>
+<215 celcius>
+
+0.1 - 0.15 layer height is the strongest (>80kg)
+mode rebahan
+
+mode berdiri <NO GOOD>
+
+Best Temp around 180Celcius
+
+Annealing PLA
+https://youtu.be/mwS_2R2mIvo?t=485
+
+Triangular pattern seems the perfect comb
+time and strenght
+
+[Strength config]
+Perimeter > Infill
+
+Polymaker polyte 1st
+ultimaker nylon 2nd
+
+strenght per time best
+0.8mm noz, 0.3 mm lay 105% ex.w., 2 perim
+0.4mm noz, 0.3 mm lay 210% ex.w., 2 perim
+
+to improve 3d print strenght, not the infill but the wall thickness
